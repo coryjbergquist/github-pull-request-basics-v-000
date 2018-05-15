@@ -4,7 +4,7 @@
 
 1. Understand what a pull request is
 1. Identify how to create a pull request from one fork to another
-2. Identify how to add commits to an existing pull request
+2. Identify how to add commits to an existing pull requesthttps://learn.co/tracks/full-stack-web-development-v5/git-and-github/collaboration/github-pull-requests#
 
 ## Overview:
 
